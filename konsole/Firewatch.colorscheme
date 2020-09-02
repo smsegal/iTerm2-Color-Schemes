@@ -89,8 +89,8 @@ Color=155,162,178
 Color=230,229,255
 
 [General]
-Blur=false
+Blur=true
 ColorRandomization=false
 Description=Firewatch
-Opacity=1
+Opacity=0.8
 Wallpaper=
