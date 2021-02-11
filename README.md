@@ -31,6 +31,7 @@ Screenshots below and in the [screenshots](screenshots/) directory.
 There are 3 ways to install an iTerm theme:
 
 - Direct way via keyboard shortcut:
+
   - Launch iTerm 2. Get the latest version at <a href="http://www.iterm2.com">iterm2.com</a>
   - Type CMD+i (⌘+i)
   - Navigate to **Colors** tab
@@ -41,6 +42,7 @@ There are 3 ways to install an iTerm theme:
   - Click on **Color Presets** and choose a color scheme
 
 - Via iTerm preferences (go to the same configuration location as above):
+
   - Launch iTerm 2. Get the latest version at <a href="http://www.iterm2.com">iterm2.com</a>
   - Click on **iTerm2** menu title
   - Select **Preferences...** option
@@ -51,6 +53,7 @@ There are 3 ways to install an iTerm theme:
   - Select the .itermcolors file(s) of the [schemes](schemes/) you'd like to use \* Click on **Color Presets** and choose a color scheme
 
 - Via Bash script
+
   - Launch iTerm 2. Get the latest version at <a href="http://www.iterm2.com">iterm2.com</a>
   - Run the following command:
 
@@ -332,6 +335,10 @@ It would also be very helpful if you `cd tools/` and run `python3 update_all.py`
 
 ![Screenshot](screenshots/doom_one.png)
 
+### Doom Peacock
+
+![Screenshot](screenshots/doom_peacock.png)
+
 ### DotGov
 
 ![Screenshot](screenshots/dot_gov.png)
@@ -443,6 +450,10 @@ It would also be very helpful if you `cd tools/` and run `python3 update_all.py`
 ### Gruvbox Light
 
 ![Screenshot](screenshots/gruvbox_light.png)
+
+### Guezwhoz
+
+![Screenshot](screenshots/Guezwhoz.png)
 
 ### Hacktober
 
@@ -691,6 +702,10 @@ It would also be very helpful if you `cd tools/` and run `python3 update_all.py`
 ### Overnight Slumber
 
 ![Screenshot](screenshots/overnight_slumber.png)
+
+### Palenight High Contrast
+
+![Screenshot](screenshots/PaleNightHC.png)
 
 ### Pandora
 
@@ -1291,6 +1306,8 @@ The coffee theme was created by [cbitterfield](https://github.com/cbitterfield)
 
 The Doom One theme was based on [Emacs Doom default theme](https://github.com/hlissner/emacs-doom-themes)
 
+The Doom Peacock theme was based on [Emacs Doom Peacock theme](https://github.com/hlissner/emacs-doom-themes)
+
 The Blueberry Banana, Blue Matrix, Cyberdyne, Laser, and Scarlet Protocol themes were created by [ReagentX](https://github.com/ReagentX)
 
 The BlueBerry Pie theme was created together by [murmurlilia](https://www.instagram.com/the.julias/) and [fitz123](https://github.com/fitz123)
@@ -1315,7 +1332,12 @@ The Gruvbox Light theme was created by [morhetz](https://github.com/morhetz) and
 
 The Jubi theme was created by [Julia Tretel](https://github.com/jutretel)
 
+The Guezwhoz theme was created by [Egor Lem](https://github.com/guesswhozzz/guezwhoz-iterm2-theme)
+
 The Overnight Slumber theme was created by [Cristian Velasquez Ramos](https://github.com/cevr/overnight) and ported to iTerm2 by [Gomah](https://github.com/Gomah/overnight-slumber-iterm).
+
+
+The PaleNight theme was created by [Mattia Astorino](https://github.com/equinusocio) and ported to iTerm2 by [Kasper](https://github.com/Kasper-Liu)
 
 If there are other color schemes you'd like to see included, drop me a line!
 
