@@ -179,6 +179,9 @@ It would also be very helpful if you `cd tools/` and run `python3 update_all.py`
 
 ![Screenshot](screenshots/blueberry_banana.png)
 
+### BlueDolphin
+![Screenshot](screenshots/BlueDolphin.png)
+
 ### Blue Matrix
 
 ![Screenshot](screenshots/blue_matrix.png)
@@ -427,6 +430,10 @@ It would also be very helpful if you `cd tools/` and run `python3 update_all.py`
 
 ![Screenshot](screenshots/galaxy.png)
 
+### Galizur 
+
+![image](screenshots/galizur.png)
+
 ### Github
 
 ![Screenshot](screenshots/github.png)
@@ -506,6 +513,10 @@ It would also be very helpful if you `cd tools/` and run `python3 update_all.py`
 ### IC_Orange_PPL
 
 ![Screenshot](screenshots/ic_orange_ppl.png)
+
+### iceberg
+
+![Screenshot](screenshots/iceberg.png)
 
 ### IDEA Drak
 
@@ -759,6 +770,14 @@ It would also be very helpful if you `cd tools/` and run `python3 update_all.py`
 
 ![Screenshot](screenshots/rapture.png)
 
+### Raycast Dark
+
+![Screenshot](screenshots/raycast_dark.png)
+
+### Raycast Light
+
+![Screenshot](screenshots/raycast_light.png)
+
 ### Rebecca
 
 ![Screenshot](screenshots/rebecca.png)
@@ -895,6 +914,10 @@ more information.
 ### Square
 
 ![Screenshot](screenshots/square.png)
+
+### Sublette
+
+![Screenshot](screenshots/sublette.png)
 
 ### Subliminal
 
@@ -1336,8 +1359,17 @@ The Guezwhoz theme was created by [Egor Lem](https://github.com/guesswhozzz/guez
 
 The Overnight Slumber theme was created by [Cristian Velasquez Ramos](https://github.com/cevr/overnight) and ported to iTerm2 by [Gomah](https://github.com/Gomah/overnight-slumber-iterm).
 
-
 The PaleNight theme was created by [Mattia Astorino](https://github.com/equinusocio) and ported to iTerm2 by [Kasper](https://github.com/Kasper-Liu)
+
+The iceberg theme was created by [cocopon](https://github.com/cocopon/iceberg.vim) and ported to iTerm2 by [pbnj](https://github.com/pbnj)
+
+The "Galizur" theme was crafted by [Raziel Anarki](https://github.com/razielanarki)
+
+The [Raycast](https://raycast.com) Dark/Light themes were created by [thomaspaulmann](https://github.com/thomaspaulmann) and [itsnwa](https://github.com/itsnwa).
+
+The BlueDolphin theme was designed by [vimiomori](https://github.com/vimiomori).
+
+The Sublette theme was created by [sublee](https://github.com/sublee).
 
 If there are other color schemes you'd like to see included, drop me a line!
 
@@ -1401,7 +1433,7 @@ To install under the [X Window System](https://www.x.org/):
 
 - Store the above snippets in a file and pass it in:
 
-        $ xrdb -merge YOUR_FILE_CONTAINING_ABOVE_SNIPPETS
+        xrdb -merge YOUR_FILE_CONTAINING_ABOVE_SNIPPETS
 
 - Open new XTerm or Rxvt windows to see the changes.
 
@@ -1480,17 +1512,17 @@ Download the appropriate `colorscheme.reg` file. Open the file with a text edito
 
 ```
 Window > Apprearance
-	Font: Consolas, bold, 14-point
-	Font quality:
-		( ) Antialiased     ( ) Non-Antialiased
-		(O) ClearType       ( ) Default
+ Font: Consolas, bold, 14-point
+ Font quality:
+  ( ) Antialiased     ( ) Non-Antialiased
+  (O) ClearType       ( ) Default
 Window > Colours
-	[X] Allow terminal to specify ANSI colours
-	[X] Allow terminal to use xterm 256-colour mode
-	Indicate bolded text by changing:
-		( ) The font   (O) The colour   ( ) Both
-	[ ] Attempt to use logical palettes
-	[ ] Use system colours
+ [X] Allow terminal to specify ANSI colours
+ [X] Allow terminal to use xterm 256-colour mode
+ Indicate bolded text by changing:
+  ( ) The font   (O) The colour   ( ) Both
+ [ ] Attempt to use logical palettes
+ [ ] Use system colours
 ```
 
 ### Xfce Terminal color schemes
